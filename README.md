@@ -6,7 +6,9 @@ Welcome to my GitHub page!
 
 I've been working mostly with .NET applications and web development, as well as scraping for a brief period.
 
-Recently interested in game development and graphics programming. Please feel free to explore and check what I've been up to!
+Recently interested in game development and graphics programming. 
+
+Please feel free to explore and check what I've been up to!
 
 <!--
 **GuroGuru/GuroGuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
