@@ -1,4 +1,6 @@
-## Vinícius Viana
+### Vinícius Viana
+
+---
 
 Welcome to my GitHub page! 
 
