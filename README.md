@@ -1,4 +1,14 @@
-### Hi there 👋
+### Vinícius Viana
+
+Welcome to my GitHub page! I've been working mostly with .NET applications and web development, as well as scraping for a brief period.
+
+Recently interested in game development and graphics programming. Please feel free to explore and check what I've been up to!
+
+[Studying retro game development](https://github.com/StudyingRetroGameDevelopment)
+[Studying the work of developers I admire]()
+[Studying front end development]()
+[Studying back end development]()
+[Studying automation and scraping]()
 
 <!--
 **GuroGuru/GuroGuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
