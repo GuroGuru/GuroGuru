@@ -1,7 +1,5 @@
 ## Vinícius Viana
 
----
-
 Welcome to my GitHub page! 
 
 I've been working mostly with .NET applications and web development, as well as scraping for a brief period.
