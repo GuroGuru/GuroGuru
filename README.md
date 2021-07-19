@@ -1,12 +1,12 @@
-### Vinícius Viana
+### Vinícius Viana :octocat:
 
 ---
 
-:octocat: Welcome to my GitHub page! 
+Welcome to my GitHub page! 
 
-:floppy_disk: I've been working mostly with .NET applications and web development, as well as scraping for a brief period.
+I've been working mostly with .NET applications and web development, as well as scraping for a brief period.
 
-:space_invader: Recently interested in game development and graphics programming. 
+Recently interested in game development and graphics programming. :space_invader: :space_invader: :space_invader: 
 
 Please feel free to explore and check what I've been up to!
 
