@@ -1,4 +1,4 @@
-### Vinícius Viana :octocat:
+### :octocat: Vinícius Viana 
 
 ---
 
